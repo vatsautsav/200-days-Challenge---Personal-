@@ -1,3 +1,5 @@
+// Write a program to print user's name and age given by the user.
+
 #include<stdio.h>
 
 int main() {
