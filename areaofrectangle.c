@@ -1,3 +1,5 @@
+// Write a program to take length and perimeter of a rectangle as inputs from the user and print breadth and area of the rectangle.
+
 #include<stdio.h>
 
 int main() {
