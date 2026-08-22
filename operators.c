@@ -1,3 +1,5 @@
+// Write a C program to perform arithmetic operations (addition, subtraction, multiplication, division, and modulus) on two integers.
+
 #include<stdio.h>
 
 int main() {
