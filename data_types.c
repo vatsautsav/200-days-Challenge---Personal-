@@ -1,3 +1,6 @@
+// Write a program to demonstrate the use of different data types and display their values using appropriate format specifiers.
+
+
 #include<stdio.h>
 
 int main() {
